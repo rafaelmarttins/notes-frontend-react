@@ -1,1 +1,1 @@
-# notes-frontend-react
+# Notes-React
